@@ -15,6 +15,7 @@ I’m currently learning Git and GitHub step-by-step while building real project
 
 ## 📌 Projects
 - [My First Project](https://github.com/Zackzto1/my-first-project)
-
+- 🌍 Live Site:
+https://zackzto1.github.io/my-first-project/
 ## 📫 Contact
 Open to collaboration and feedback.
