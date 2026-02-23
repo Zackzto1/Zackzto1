@@ -1,11 +1,20 @@
-## Hi there 👋
-Hi, I'm Zack. I'm learning GitHub.
-<!--
-**Zackzto1/Zackzto1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- I’m currently working on learn Github
-- I am open to any feedback
-- Ask me about 
-- How to reach me email but ask
-- learning GitHub step-by-step.
- 
+# Hi, I’m Zack 👋
+
+I’m currently learning Git and GitHub step-by-step while building real projects.
+
+## 🚀 Current Focus
+- Learning Git & GitHub workflow
+- Building small web projects
+- Understanding version control
+
+## 🛠 Tech Stack
+- HTML
+- Git
+- GitHub
+- Markdown
+
+## 📌 Projects
+- [My First Project](https://github.com/Zackzto1/my-first-project)
+
+## 📫 Contact
+Open to collaboration and feedback.
