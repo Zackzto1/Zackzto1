@@ -1,21 +1,29 @@
-# Hi, I’m Zack 
+# Hi, I'm Zack
 
-I’m currently learning Git and GitHub step-by-step while building real projects.
+I build practical tools and workflow systems while learning software development through real projects.
 
-## Current Focus
-- Learning Git & GitHub workflow
-- Building small web projects
-- Understanding version control
+## Current Projects
 
-## Tech Stack
-- HTML
-- Git
-- GitHub
-- Markdown
+### STACK
+Clipboard holding bank for saving copied text and reusable phrases.
 
-## Projects
-- [My First Project](https://github.com/Zackzto1/my-first-project)
-## Site
-https://zackzto1.github.io/my-first-project/
-## Contact
-Open to collaboration and feedback.
+Features:
+- Save copied text
+- Phrase storage
+- Multi-item clipboard bank
+- Copy all / copy one
+- Persistent storage
+
+### Command Planner
+Task management system built in Python.
+
+## Currently Learning
+
+- Git & GitHub workflow
+- HTML / CSS / JavaScript
+- Building useful software
+- Version control
+
+## Philosophy
+
+Build first. Improve later.
